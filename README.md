@@ -1,3 +1,5 @@
 # MinhaAplicacao
 
-Aplicação desenvolvida em java para trabalho da fauldade de sistemas para internet.
+Aplicação desenvolvida em java, para um trabalho da fauldade do curso: 
+
+# Sistemas para Internet.
